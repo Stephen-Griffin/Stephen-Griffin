@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stephen-Griffin
-- 👀 I’m interested in computer science and engineering
-- 🌱 I’m currently learning UNIX/C, Discrete Mathematics, and Linear Algebra
+- 👀 I’m interested in Computer Science and Machine Learning
+- 🌱 I’m currently learning algorithms, organization of programming languages, and statistics.
 - 💞️ I’m looking to collaborate on any projects relating to Java or C
 - 📫 How to reach me ... Phone#: 508-570-8063 || Email: stephengriffin2210@gmail.com
 
