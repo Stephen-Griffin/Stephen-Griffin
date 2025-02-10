@@ -10,7 +10,7 @@
   
 
 </p>
-[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 
 <h3>My GitHub contributions summary</h3>
 
