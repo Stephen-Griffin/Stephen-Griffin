@@ -4,3 +4,4 @@
 
 <h3>I have previously worked with</h3>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="Jenkins" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
