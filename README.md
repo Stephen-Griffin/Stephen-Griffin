@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Stephen Griffin
+# 👋 Hi there, I'm Stephen Griffin
 
 ![](https://komarev.com/ghpvc/?style=for-the-badge&username=Stephen-Griffin&color=red)
 
@@ -10,10 +10,5 @@
 
 [![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=fff)](#) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-
-# Stephen's GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Stephen-Griffin&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Stephen-Griffin&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Griffin&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
