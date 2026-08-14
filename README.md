@@ -1,1 +1,3 @@
-# 👋 Hi there, I'm Stephen Griffin
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Stephen Griffin" />
+</p>
